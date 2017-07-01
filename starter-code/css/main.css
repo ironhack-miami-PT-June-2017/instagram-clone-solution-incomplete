@@ -1,0 +1,123 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+/*.bckgrnd{*/
+  /*width: 100%;
+  height: 250px;
+  top:0px;
+  position: fixed;
+  z-index: -1;
+  background: linear-gradient(#1c5380, #06365f);
+
+}*/
+
+
+.col-1{
+  float: left;
+  width: 48vw;
+  height: 92vh;
+}
+
+.col-2{
+float: left;
+width: 48vw;
+height: 92vh;
+padding-top: 100px;
+}
+
+body {
+ font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+ margin: 0;
+ background: linear-gradient(to bottom,#4b82af 3%, #1c5380 30%, white 30%);
+}
+
+
+.phones{
+  position: relative;
+  left: 15%;
+  top: 70px;
+}
+
+
+.instaLogo {
+  position: relative;
+  right: 80px;
+  margin-bottom: 20px;
+  float: left;
+}
+
+.logs{
+background-color: #1c5380;
+border-width: 2px;
+border-color: #06365f;
+border-style: solid;
+width: 110px;
+color: white;
+border-radius: 5px;
+padding: 10px;
+background: linear-gradient(#1c5380, #06365f);
+position: relative;
+top: 10px;
+left: 30px;
+}
+
+
+.container {
+  margin-top: 50px;
+  width: 450px;
+  radius: 10px;
+  padding: 25px ;
+  color: black;
+  background-image: url('../images/frame.png');
+
+
+}
+
+
+/*
+h1 {
+color: #06365f;
+}
+
+div {
+  color: #06365f;
+
+}
+
+
+
+.appStore {
+  margin: 200px;}
+
+.links {
+  bottom: 40px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+  word-spacing: 20px;
+  font-size: 12px;
+}
+
+
+
+.frame {
+  position: relative;
+  left:46% ;
+  bottom: 396px;
+  z-index: 0;
+}
+
+
+.login {
+  position: relative;
+  top: 5px;
+  margin-right: 5px;
+}
+
+
+span {
+  color: grey;
+}*/
